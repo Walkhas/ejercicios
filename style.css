@@ -36,11 +36,11 @@ body h2 {
     color: #060;
     font-weight: bold;
 }
-a .Link {
+a .link {
     font-size: 22px;
     text-decoration:underline ;
 }
-a .links:hover{
+a .link:hover{
     color: cornflowerblue;
     background-color: #000;
 }
