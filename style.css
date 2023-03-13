@@ -40,7 +40,7 @@ a .link {
     font-size: 22px;
     text-decoration:underline ;
 }
-.link:hover{
+.link:hover {
     color: cornflowerblue;
     background-color: #000;
 }
